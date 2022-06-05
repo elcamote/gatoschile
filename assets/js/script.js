@@ -10,3 +10,4 @@ $(document).scroll(function()
     y >300 ? $('nav').addClass("nav-black") : $("nav").removeClass("nav-black");
 
 })
+
